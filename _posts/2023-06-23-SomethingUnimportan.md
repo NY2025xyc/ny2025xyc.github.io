@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6月23日杂谈"
-date:   2023-06-22
+date:   2023-06-23
 comments: true
 toc: true
 tags: [随笔]
