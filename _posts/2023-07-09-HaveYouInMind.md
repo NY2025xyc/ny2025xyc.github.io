@@ -64,4 +64,4 @@ author: NY2025xyc
 
 当时，我也发了。或许，我千种万般的心绪，也都饱含在这声“您”中了。
 
-![](https://pic.imgdb.cn/item/64aa45ad1ddac507ccd7db0b.jpg)
+![](https://raw.githubusercontent.com/NY2025xyc/ny2025xyc.github.io/main/images/407986477e1a2afb68.jpg)
