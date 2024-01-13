@@ -6,7 +6,8 @@
 name: "风雪千山"
 # Short bio or description (displayed in the header)
 description: "人生可怜，流光一瞬，华表千年"
-
+# Use Kramdown
+markdown: kramdown
 #
 # Flags below are optional
 #
